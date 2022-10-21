@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { useTodoState } from "./TodoContext";
 
 const TodoHeadBlock = styled.div`
     ${"" /* padding/margin Tip */}
@@ -26,9 +27,11 @@ ${"" /* 다 다를 때 시계방향으로 : 상, 우, 하, 좌 */}
     }
 `;
 function TodoHead() {
+    const todos = useTodoState();
+    console.log(todos);
     return (
         <TodoHeadBlock>
-            <h1>2022년 10월 13일</h1>
+            <h1>2022년 10월 21일</h1>
             <div className="day">목요일</div>
             <div className="tasks-left">할 일 2개 남음</div>
         </TodoHeadBlock>
