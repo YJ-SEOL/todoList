@@ -1,5 +1,7 @@
 <h1 align='center'> TodoList 실습 </h1>
-
+<div align='center'>
+<img width="499" alt="스크린샷 2022-12-22 오후 7 22 49" src="https://user-images.githubusercontent.com/99378739/209113477-43f47eb9-15d3-4b34-a425-affe62ab3b7a.png">
+</div>
 <br />
 
 ## :gem: 개요 :gem:
