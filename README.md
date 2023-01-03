@@ -2,6 +2,8 @@
 <div align='center'>
 <img width="200" height="350" alt="스크린샷 2022-12-22 오후 7 26 53" src="https://user-images.githubusercontent.com/99378739/209114251-314e3759-d588-40d8-8820-da37502f8c3b.png">  <img width="200" height="350" alt="스크린샷 2022-12-22 오후 7 25 54" src="https://user-images.githubusercontent.com/99378739/209114247-3e626b13-83d4-4d57-8f7a-b9f83a4eddbb.png">
 
+[git-page 바로가기](https://yj-seol.github.io/todoList/)🔗
+
 </div>
 <br />
 
